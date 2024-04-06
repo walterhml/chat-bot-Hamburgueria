@@ -1,7 +1,9 @@
 import telebot
 
 # Substitua 'TOKEN' pelo token do seu bot fornecido pelo BotFather
-bot = telebot.TeleBot('7177741460:AAEFjJtyizvnl9zQOVSgqzdnUjPSXuMYVLo')
+bot = telebot.TeleBot('7177741460r3:AAEFjJtyizvnlr29zQOVSgqzdnUjPSXuMYVLo5433buf=53f3')
+# esse token nao funciona para minha segurança
+
 
 # Dicionário de hambúrgueres com seus preços
 menu = {
